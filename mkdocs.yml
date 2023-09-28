@@ -1,0 +1,8 @@
+site_name: Algorithm
+
+nav:
+  - Home: index.md
+  - 算法基础: base.md
+
+theme:
+  name: 'material'
